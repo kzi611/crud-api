@@ -1,0 +1,17 @@
+.create-button {
+    padding: 10px 20px;
+    background-color: cornflowerblue;
+    color: white; 
+    border: none; 
+    border-radius: 5px;
+    font-size: 1rem; 
+    cursor: pointer;
+    margin-left: auto; 
+    display: block;
+    margin-right: 20px;
+}
+  
+  .create-button:hover {
+    background-color: #88ccdc; 
+}
+  

@@ -1,0 +1,27 @@
+.edit-button,
+.delete-button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    color: white; 
+    margin: 0px 5px;
+}
+
+.edit-button {
+    background-color: #FFA500;
+}
+
+.edit-button:hover {
+    background-color: #cc8400;
+}
+
+.delete-button {
+    background-color: crimson;
+}
+
+.delete-button:hover {
+    background-color: #a40000; 
+}
