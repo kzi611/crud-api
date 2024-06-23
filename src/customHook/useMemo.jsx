@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
-import ButtonEdit from './Button/buttonEdit';
-import ButtonDelete from './Button/buttonDelete';
+import ButtonEdit from '../components/Button/buttonEdit';
+import ButtonDelete from '../components/Button/buttonDelete';
 
 const useMemoColumns = (handleDeleteUser, handleOpenUpdateModal, renderStatus) => {
   return useMemo(
